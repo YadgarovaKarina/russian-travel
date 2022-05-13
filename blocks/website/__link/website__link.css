@@ -1,4 +1,4 @@
-.place__website__link {
+.website__link {
     max-width: 456px;
     max-height: 100%;
     font-style: normal;
@@ -9,18 +9,18 @@
     color: white;
 }
 
-.place__website__link:hover {
+.website__link:hover {
     transition: 1s;
     opacity: 0.4;
 }
 @media screen and (max-width: 1023px) {
-    .place__website__link {
+    .website__link {
         max-width: 352px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .place__website__link {
+    .website__link {
         max-width: 288px;
         margin: 0 16px;
     }

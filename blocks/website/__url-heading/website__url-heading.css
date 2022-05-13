@@ -1,4 +1,4 @@
-.place__website__url-heading {
+.website__url-heading {
     margin: 0;
     width: 456px;
     height: 12px;
@@ -11,13 +11,13 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .place__website__url-heading {
+    .website__url-heading {
         max-width: 352px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .place__website__url-heading {
+    .website__url-heading {
         max-width: 288px;
         margin: 0 16px;
     }
