@@ -1,4 +1,4 @@
-.footer-link {
+.footer__link {
     max-height: 18px;
     color: white;
     text-decoration: none;
@@ -8,7 +8,7 @@
     line-height: 18px;
 }
 
-.footer-link:hover {
+.footer__link:hover {
     transition: 1s;
     opacity: 0.4;
 }
